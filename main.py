@@ -1,8 +1,5 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+#To-do List Application
+#Author: Nick Romano
 
 def add_task(task_list):
     task_name = input("Enter the task: ")
